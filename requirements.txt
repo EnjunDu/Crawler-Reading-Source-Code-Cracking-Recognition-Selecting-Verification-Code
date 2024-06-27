@@ -1,0 +1,12 @@
+beautifulsoup4==4.12.2
+ddddocr==1.0.6
+Requests==2.31.0
+selenium==4.14.0
+tesseract v5.3.1.20230401 w64
+https://digi.bib.uni-mannheim.de/tesseract/
+
+pytesseract v0.3.10
+pip install pytesseract
+
+tesserocr v2.6.0-Python 3.11
+https://github.com/simonflueckiger/tesserocr-windows_build/releases/tag/tesserocr-v2.6.0-tesseract-5.3.1
